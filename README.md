@@ -26,6 +26,9 @@ Project created by <a href="https://github.com/JarotOffc">JAROT OFFC</a> to make
     <br> 
 </p>
 
+## FOR REPLIT USER
+[![Run on Repl.it](https://repl.it/badge/github/Tersakiti404-cyber/oc)](https://repl.it/github/Tersakiti404-cyber/oc)
+
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
 
